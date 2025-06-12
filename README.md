@@ -37,3 +37,6 @@ Use slicers and filters to dive into specific insights.
 
 (Optional) Connect to your own dataset by modifying the data source in Power Query.
 
+LINK TO VIEW VISUALIZATION 
+https://app.powerbi.com/groups/me/reports/829904b0-390e-49b8-bc2a-e960b3221d3b/7938025a97e3a822404c?experience=power-bi&bookmarkGuid=72f9806b683a8119a3bc 
+
